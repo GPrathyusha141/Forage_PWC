@@ -12,9 +12,9 @@ This repository contains Power BI reports and dashboards developed as part of th
 ## 📂 Files in this Repository
 | File Name       | Description |
 |----------------|------------|
-| `Report1.pbix` | Sales analysis dashboard |
-| `Report2.pbix` | Customer segmentation insights |
-| `Report3.pbix` | Financial performance overview |
+| `Forage_task1.pbix` | Call Center Trends analysis dashboard |
+| `Customer Retention.pbix` | Customer Retention Churn dashboard |
+| `Diversity and Inclusion Dashboard.pbix` | Diversity Inclusion Dashboard |
 
 ## 📊 Project Highlights
 - **Data Integration:** Combined datasets from multiple sources to create a **cohesive data model**.
